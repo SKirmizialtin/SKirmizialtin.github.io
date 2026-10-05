@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Suphan Kirmizialtin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Suphan Kirmizialtin"
+description              : &description "Historian of the Modern Middle East, Digital Humanities, and Critical AI Studies"
 url                      : https://skirmizialtin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skirmizialtin.github.io"
@@ -23,13 +23,13 @@ repository               : "skirmizialtin.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Suphan Kirmizialtin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Historian of the Modern Middle East and digital humanist"
+  location         : "UAE"
+  employer         : "NYU Abu Dhabi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "suphan@nyu.edu" 
 
   # Academic websites
   academia         : # URL
